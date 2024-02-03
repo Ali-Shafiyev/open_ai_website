@@ -1,0 +1,93 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  body {
+    background-color: #050d1a;
+  }
+  .navbar {
+    width: 1169.3399658203125px;
+    height: 58px;
+    top: 55px;
+    left: 135.66px;
+    font-family: "Manrope", sans-serif;
+  
+    img {
+      position: relative;
+      width: 62.55734634399414px;
+      height: 16.016000747680664px;
+      top: 74px;
+      left: 135px;
+      box-sizing: border-box;
+    }
+    a {
+      text-decoration: none;
+      color: rgba(255, 255, 255, 1);
+      position: relative;
+    }
+    .a1 {
+      width: 50px;
+      height: 25px;
+      top: 71px;
+      left: 200px;
+    }
+    .a2 {
+      width: 112px;
+      height: 25px;
+      top: 71px;
+      left: 300px;
+    }
+    .a3 {
+      width: 65px;
+      height: 25px;
+      top: 71px;
+      left: 400px;
+    }
+    .a4 {
+      width: 113px;
+      height: 25px;
+      top: 71px;
+      left: 500px;
+    }
+    .a5 {
+      width: 58px;
+      height: 25px;
+      top: 71px;
+      left: 600px;
+    }
+    .a6 {
+      width: 57px;
+      height: 25px;
+      top: 71px;
+      left: 800px;
+    }
+    #signUpBtn{
+      color: rgba(255, 255, 255, 1);
+      position: relative;
+      width: 152px;
+      height: 58px;
+      top: 70px;
+      left: 850px;
+      background: rgb(255, 47, 0);
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+      border: rgba(255, 72, 32, 1) solid;
+    }
+    #signUpBtn:hover {
+      background-color: rgba(205, 72, 3, 1);
+    }
+    a:hover {
+      text-decoration: underline rgb(255, 47, 0);
+    }
+    .circle {
+      img {
+        width: 1013px;
+        height: 1013px;
+        top: -275px;
+        left: -100px;
+        position: absolute;
+      }
+    }
+  }
+  
